@@ -1,0 +1,16 @@
+:root {
+  font-family: monospace;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  width: 200px;
+  background-color: #80F4E1;
+  color: white;
+  text-align: center;
+}

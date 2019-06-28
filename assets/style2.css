@@ -1,0 +1,23 @@
+:root {
+  font-family: monospace;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  width: 200px;
+  background-color: #55CBF9;
+  color: white;
+  text-align: center;
+  border: 1px solid gray;
+}
+
+.search {
+  width: 500px;
+  height: 65px;
+  border: 1px solid gray;
+}
